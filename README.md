@@ -20,7 +20,7 @@ Demands
 ### Political Accountability
 
 We believe that Michael Brown, Jr. was murdered and that the political structures and representatives in Missouri must be held accountable for their responses, or lack thereof, to his murder.
-> To this end, we demand the following actions:
+To this end, we demand the following actions:
 1. Resignation of Ferguson Police Chief for release of video purporting to link Michael Brown to a crime, willful spreading of misinformation to the public and press, and inciting protesters.
 2. Public apology and financial reparations from Governor Nixon for the actions of the police mobilized at his direction that tear gassed, smoke bombed, and shot protesters.
 3. Immediate arrest and charging of Darren Wilson.

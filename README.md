@@ -1,6 +1,6 @@
 What we want. What we believe.
 =======
-> List of demands to address the systemic and structural racism as provided by [The Demands of #Ferguson](http://thedemands.org)
+List of demands to address the systemic and structural racism as provided by [The Demands of #Ferguson](http://thedemands.org)
 
 Table of Contents
 ---

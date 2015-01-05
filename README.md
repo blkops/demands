@@ -1,7 +1,7 @@
 What we want. What we believe.
 Contributors: blkops, odorsey
 =======
-List of demands to address the systemic and structural racism as provided by [The Demands of #Ferguson](http://thedemands.org)
+List of demands to address the systemic and structural racism as provided by [The Demands of #Ferguson](http://thedemands.org). The demands were created through conversation with various groups and community members and is always open to additional ideas or concerns. 
 
 Table of Contents
 ---
@@ -128,3 +128,5 @@ To this end, we demand the following actions:
 -------
 
 ### Pass the National "End Racial Profiling" Legislation
+
+We believe that the United States Congress must pass the "End Racial Profiling" legislation (H. 2851, S. 1038) introduced by Congressman John Conyers.

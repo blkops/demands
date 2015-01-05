@@ -1,4 +1,5 @@
 What we want. What we believe.
+Contributors: blkops, odorsey
 =======
 List of demands to address the systemic and structural racism as provided by [The Demands of #Ferguson](http://thedemands.org)
 
